@@ -7,10 +7,11 @@
 
 .center{
     display: flex;
-    flex-wrap: wrap;
-    max-width: 1300px;
+    justify-content: space-between;
+    align-items: center;
+    max-width: 1350px;
     margin: 0 auto;
-    padding: 0 2%;
+    padding: 0 1%;
 }
 
 header{
@@ -18,9 +19,10 @@ header{
 }
 
 .logo{
-    width: 25%;
+    width: 352px;
+    height: 85px;
 }
-
+ 
 .menu{
     padding-top: 0;
     width:75%;
@@ -31,5 +33,5 @@ header{
     color:black;
     text-decoration: none;
     font-weight: bold;
-    margin-right: 15px;
+    margin-right: 12px;
 }
