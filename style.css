@@ -29,6 +29,7 @@ header{
 .menu a{
     color:black;
     text-decoration: none;
+    font-family:'Segoe UI', 'Tahoma', 'Geneva', 'Verdana', 'sans-serif';
     font-weight: bold;
     margin-right: 15px;
 }
